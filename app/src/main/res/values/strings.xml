@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NTL project1</string>
+    <string name="School_Name">Banhow High school</string>
+    <string name="Phone_Num">4589176</string>
+    <string name="Email">email: Banhow@yahoo.com</string>
+    <string name="Website">www.Banhow.com</string>
+    <string name="Address">Banhow high school located in village in Sohag-Egypt.</string>
+</resources>
